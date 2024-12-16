@@ -19,5 +19,4 @@ Currently we are still developing the frontend, so we can only provide a list of
 1. Project64
 2. Project64 Legacy
 4. 1964
-5. UltraHLE
-6. CEN64
+5. CEN64
